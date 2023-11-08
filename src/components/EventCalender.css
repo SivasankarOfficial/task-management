@@ -1,0 +1,10 @@
+.rbc-event,
+.rbc-day-slot .rbc-background-event {
+  background-color: #b07ef6 !important;
+  border-left: 4px solid #450a99 !important;
+  border-radius: 0 !important;
+  border-bottom: 0 !important;
+  border-top: 0 !important;
+  border-right: 0 !important;
+  color: black !important;
+}
